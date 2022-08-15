@@ -95,5 +95,27 @@ Optimization, Market Analysis and Benchmarking, Financial Management
         </ul>
       </td>
     </tr>
+    <tr>
+      <tc>
+        <td align="left" valign="top">
+          <b>Administrative Information Technology Services (AITS)</b><br/>
+          Technical Service Representative<br/>
+        </td>
+      </tc>
+      <tc>
+        <td align="right" valign="top">
+          <b>August 2018–May 2019</b><br/>
+          Champaign, IL
+        </td>
+      </tc>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <ul>
+          <li>Troubleshooting and systems applications assistance for clients over call (10/day average) and through the AWS Identity and Access Management ticketing system</li>
+          <li>Collaborated with coworkers in a team-setting and resolved over 90% of clients’ requests</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
