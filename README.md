@@ -9,7 +9,7 @@
         <td align="left" valign="top">
           <b>Tufts University</b><br/>
           Master of Science in Mechanical Engineering<br/>
-          Master of Science in Innovation Management
+          Master of Science in Innovation Managementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
         </td>
       </tc>
       <tc>
