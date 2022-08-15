@@ -1,4 +1,4 @@
-# FARIS ALQUADDOOMI
+# <div align="center">FARIS ALQUADDOOMI</div>
 <div align="center">(626) 354-4434 | faris.alquaddoomi@tufts.edu | <a href="https://www.linkedin.com/in/faris-alquaddoomi-82062932/">My LinkedIn</a></div>
 
 ## EDUCATION
