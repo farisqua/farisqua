@@ -131,7 +131,7 @@ Optimization, Market Analysis and Benchmarking, Financial Management
         </td>
       </tc>
       <tc>
-        <td align="left" valign="top">
+        <td align="right" valign="top">
             <b>June 2021–May 2022</b></br>
             Somerville, MA
         </td>
