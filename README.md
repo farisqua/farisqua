@@ -9,13 +9,14 @@
         <td align="left" valign="top">
           <b>Tufts University</b><br/>
           Master of Science in Mechanical Engineering<br/>
-          Master of Science in Innovation Managementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+          Master of Science in Innovation Managementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
         </td>
       </tc>
       <tc>
         <td align="right" valign="top">
           <b>August 2020–May 2022</b><br/>
-          GPA - 3.80/4.00
+          GPA - 3.80/4.00<br/>
+          ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
         </td>
       </tc>
     </tr>
