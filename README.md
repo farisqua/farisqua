@@ -38,12 +38,9 @@
 </table>
 
 ## TECHNICAL SKILLS
-**Software:** Python: NumPy, Pandas, Geopandas, Seaborn, Plotly, Matplotlib, Sci-kit Learn; MS Office Suit; PTC
-Creo; SolidWorks: CAD, CFD, FEA; MATLAB;<br/>
-
-
-**Financial:** Financial Modeling, Data Analysis, Technical Analysis, Fundamental Analysis, Search Engine
-Optimization, Market Analysis and Benchmarking, Financial Management
+**Data Analysis Tools:** Python: NumPy, Pandas, Geopandas; Visualization: Seaborn, Plotly, Matplotlib, Sci-kit Learn; Query (SQL): PostgreSQL, pgAdmin; MS Office Suit</br>
+**Engineering Tools:** PTC Creo Parametric; SolidWorks: CAD, CFD, FEA; MATLAB; Design: GD&T, Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement</br>
+**Finance Skills:** Financial Modeling, Data Analysis, Technical Analysis, Fundamental Analysis, Market Analysis and Benchmarking, Financial Management, Options Trading
 
 ## WORK EXPERIENCE
 <table>
@@ -86,9 +83,9 @@ Optimization, Market Analysis and Benchmarking, Financial Management
     <tr>
       <td colspan="2">
         <ul>
-          <li>Teach students in 3:1 setting, all subjects</li>
-          <li>Primarily provide math tutoring in pre-algebra through AP Calculus BC</li>
-          <li>Provide college counseling and academic avising to students</li>
+          <li>Instruct students in a 1:1, up-to a 3:1, setting. Instruction consists of teaching general math, English, and science skills as well as test preparation</li>
+          <li>Provide academic counseling to students entering high school and college – create study plans with students to improve their academic performance and achieve desired outcomes</li>
+          <li>Record student progress and performance in C2’s online database; correspond with staff to tailor curriculum to student needs</li>
         </ul>
       </td>
     </tr>
