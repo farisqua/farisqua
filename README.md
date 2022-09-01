@@ -38,8 +38,8 @@
 </table>
 
 ## TECHNICAL SKILLS
-**Data Analysis Tools:** Python: NumPy, Pandas, Geopandas; Visualization: Seaborn, Plotly, Matplotlib, Sci-kit Learn; Query (SQL): PostgreSQL, pgAdmin; MS Office Suit</br>
-**Engineering Tools:** PTC Creo Parametric; SolidWorks: CAD, CFD, FEA; MATLAB; Design: GD&T, Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement</br>
+**Data Analysis Tools:** Python: NumPy, Pandas, Geopandas; Visualization: Seaborn, Plotly, Matplotlib, Sci-kit Learn; Query (SQL): PostgreSQL, pgAdmin; MS Office Suit<br/>
+**Engineering Tools:** PTC Creo Parametric; SolidWorks: CAD, CFD, FEA; MATLAB; Design: GD&T, Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement<br/>
 **Finance Skills:** Financial Modeling, Data Analysis, Technical Analysis, Fundamental Analysis, Market Analysis and Benchmarking, Financial Management, Options Trading
 
 ## WORK EXPERIENCE
