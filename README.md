@@ -134,8 +134,8 @@
     </tr>
     <tr>
       <td colspan="2">
+        On-call for all management and client requests, including:
         <ul>
-          On-call for all management and client requests, including:
           <li>Funneling leads to proper sales channels</li>
           <li>Recording student attendance</li>
           <li>Adjusting student schedules</li>
