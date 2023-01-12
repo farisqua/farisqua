@@ -38,9 +38,16 @@
 </table>
 
 ## TECHNICAL SKILLS
-**Data Analysis Tools**<br/> Python: NumPy, Pandas, Geopandas; Visualization: Seaborn, Plotly, Matplotlib, Sci-kit Learn; Query (SQL): PostgreSQL, pgAdmin; MS Office Suit<br/>
+**Data Analysis Tools**<br/> 
+*Data Manipulation*: NumPy, Pandas, Geopandas  
+*Visualization*: Seaborn, Plotly, Matplotlib, Sci-kit Learn, PowerBI  
+*Query (SQL)*: PostgreSQL, pgAdmin  
+*MS Office Suit*: Excel, Word, PowerPoint<br/>
 
-**Engineering Tools**<br/> PTC Creo Parametric; SolidWorks: CAD, CFD, FEA; MATLAB; Design: GD&T, Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement<br/>
+**Engineering Tools**<br/> 
+*Design Tools*: PTC Creo Parametric, SolidWorks   
+*Analysis Tools*: MATLAB, ANSYS
+*Design Skills*: Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement<br/>
 
 **Finance Skills**<br/> Financial Modeling, Data Analysis, Technical Analysis, Fundamental Analysis, Market Analysis and Benchmarking, Financial Management, Options Trading
 
@@ -50,13 +57,33 @@
     <tr>
       <tc>
         <td align="left" valign="top">
+          <b>Tutor</b><br/>
+          Freelance<br/>
+        </td>
+      </tc>
+      <tc>
+        <td align="right" valign="top">
+          <b>August 2022 – Present</b><br/>
+        </td>
+      </tc>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <ul>
+          <li>Freelance tutor in Mathematics (pre-algebra to AP Calculus BC)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <tc>
+        <td align="left" valign="top">
           <b>Tufts University</b><br/>
           Course Assistant: Data Science for Sustainability<br/>
         </td>
       </tc>
       <tc>
         <td align="right" valign="top">
-          <b>September 2022–Present</b><br/>
+          <b>September 2022 – December 2022</b><br/>
           Remote
         </td>
       </tc>
@@ -77,7 +104,7 @@
       </tc>
       <tc>
         <td align="right" valign="top">
-          <b>June 2022–Present</b><br/>
+          <b>June 2022 – Dec 2022</b><br/>
           Pasadena, CA
         </td>
       </tc>
@@ -88,6 +115,33 @@
           <li>Instruct students in a 1:1, up-to a 3:1, setting. Instruction consists of teaching general math, English, and science skills as well as test preparation</li>
           <li>Provide academic counseling to students entering high school and college – create study plans with students to improve their academic performance and achieve desired outcomes</li>
           <li>Record student progress and performance in C2’s online database; correspond with staff to tailor curriculum to student needs</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <tc>
+        <td align="left" valign="top">
+          <b>C2 Education</b><br/>
+          Education Coordinator<br/>
+        </td>
+      </tc>
+      <tc>
+        <td align="right" valign="top">
+          <b>October 2022 – November 2022</b><br/>
+          Pasadena, CA
+        </td>
+      </tc>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <ul>
+          <li>On-call for all management and client requests, including:</li>
+          <li>Funneling leads to proper sales channels</li>
+          <li>Recording student attendance</li>
+          <li>Adjusting student schedules</li>
+          <li>Administering student diagnostic tests and assessing progress</li>
+          <li>Ensuring the safety and security of all business premises and inventory</li>
+          <li>Replenishing inventory per teacher and client requests or by discretion</li>
         </ul>
       </td>
     </tr>
