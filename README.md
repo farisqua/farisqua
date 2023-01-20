@@ -39,14 +39,14 @@
 
 ## TECHNICAL SKILLS
 **Data Analysis Tools**<br/> 
-*Data Manipulation*: NumPy, Pandas, Geopandas  
-*Visualization*: Seaborn, Plotly, Matplotlib, Sci-kit Learn, PowerBI  
-*Query (SQL)*: PostgreSQL, pgAdmin, psycopg2  
+*Data Manipulation*: NumPy, Pandas, Geopandas<br/>  
+*Visualization*: Seaborn, Plotly, Matplotlib, Sci-kit Learn, PowerBI<br/>  
+*Query (SQL)*: PostgreSQL, pgAdmin, psycopg2<br/>  
 *MS Office Suit*: Excel, Word, PowerPoint<br/>
 
 **Engineering Tools**<br/> 
-*Design Tools*: PTC Creo Parametric, SolidWorks   
-*Analysis Tools*: MATLAB, ANSYS
+*Design Tools*: PTC Creo Parametric, SolidWorks<br/>   
+*Analysis Tools*: MATLAB, ANSYS<br/>
 *Design Skills*: Engineering Drawings, Rapid Prototyping, 3D Printing, Laser Cutting, Part Procurement<br/>
 
 **Finance Skills**<br/> Financial Modeling, Data Analysis, Technical Analysis, Fundamental Analysis, Market Analysis and Benchmarking, Financial Management, Options Trading
