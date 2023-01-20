@@ -41,7 +41,7 @@
 **Data Analysis Tools**<br/> 
 *Data Manipulation*: NumPy, Pandas, Geopandas  
 *Visualization*: Seaborn, Plotly, Matplotlib, Sci-kit Learn, PowerBI  
-*Query (SQL)*: PostgreSQL, pgAdmin  
+*Query (SQL)*: PostgreSQL, pgAdmin, psycopg2  
 *MS Office Suit*: Excel, Word, PowerPoint<br/>
 
 **Engineering Tools**<br/> 
