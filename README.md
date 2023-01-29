@@ -112,9 +112,9 @@
     <tr>
       <td colspan="2">
         <ul>
-          <li>Instruct students in a 1:1, up-to a 3:1, setting. Instruction consists of teaching general math, English, and science skills as well as test preparation</li>
-          <li>Provide academic counseling to students entering high school and college – create study plans with students to improve their academic performance and achieve desired outcomes</li>
-          <li>Record student progress and performance in C2’s online database; correspond with staff to tailor curriculum to student needs</li>
+          <li>Instructed students in a 1:1, up-to a 3:1, setting. Instruction consisted of teaching general math, English, and science skills as well as test preparation</li>
+          <li>Provided academic counseling to students entering high school and college – created study plans with students to improve their academic performance and achieve desired outcomes</li>
+          <li>Recorded student progress and performance in C2’s online database; corresponded with staff to tailor curriculum to student needs</li>
         </ul>
       </td>
     </tr>
